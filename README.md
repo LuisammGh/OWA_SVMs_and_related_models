@@ -37,7 +37,14 @@ These codes are implemented in Python and solved using Cplex. The user provides 
 -   Name of the text file where a summary of the results will be written. Example: summary_sonar.txt.
 
 The used parameter values are the following:
-    
-    
+-   C=2^{-7},2^{-6},...,2^{7}
+-   sigma=2^{-7},2^{-6},...,2^{7}
+-   OWA weights based on linguistic quantifiers: basic, quadratic, exponential and trigonometric
+-   alpha= 0.2,0.4,0.6,0.8
+
+Besides, folder "data" include three examples of datasets, particularly: australian_scale, ionosphere_scale, sonar_scale, and splice_scale. More datasets can be found in:
+Chih-Chung Chang and Chih-Jen Lin, LIBSVM : a library for support vector machines. ACM Transactions on Intelligent Systems and Technology, 2:27:1--27:27, 2011. 
+Software available at http://www.csie.ntu.edu.tw/~cjlin/libsvm.
+
 
 
