@@ -42,7 +42,7 @@ The used parameter values are the following:
 -   OWA weights based on linguistic quantifiers: basic, quadratic, exponential and trigonometric
 -   alpha= 0.2,0.4,0.6,0.8
 
-Besides, folder "data" include three examples of datasets, particularly: australian_scale, ionosphere_scale, sonar_scale, and splice_scale. More datasets can be found in:
+Besides, folder "data" include four examples of datasets, particularly: australian_scale, ionosphere_scale, sonar_scale, and splice_scale. More datasets can be found in:
 Chih-Chung Chang and Chih-Jen Lin, LIBSVM : a library for support vector machines. ACM Transactions on Intelligent Systems and Technology, 2:27:1--27:27, 2011. 
 Software available at http://www.csie.ntu.edu.tw/~cjlin/libsvm.
 
