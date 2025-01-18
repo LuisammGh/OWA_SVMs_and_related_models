@@ -2,8 +2,8 @@
 
 This repository contains the following codes:
 1.  C_OWA_SVM.py: C-OWA-SVM model in a ten fold cross validation. The description of this model can be found in: 
-    The soft-margin Support Vector Machine with ordered weighted average, Knowledge-Based Systems 237 (2022) 107705.
-    A.Marín, L.I. Martínez-Merino, J. Puerto, A.M. Rodríguez-Chía
+    The soft-margin Support Vector Machine with ordered weighted average, 
+    A.Marín, L.I. Martínez-Merino, J. Puerto, A.M. Rodríguez-Chía, Knowledge-Based Systems 237 (2022) 107705.
     https://doi.org/10.1016/j.knosys.2021.107705
 2.  C_OWA_SVM_Kernel.py: C-OWA-SVM model using the Gaussian Kernel in a ten fold cross validation. The description of this model can be found in: 
     The soft-margin Support Vector Machine with ordered weighted average
